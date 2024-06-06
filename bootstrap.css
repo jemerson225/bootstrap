@@ -1,0 +1,23 @@
+body{
+    background-image: url(./img/fundo\ carro.avif);
+    background-size: contain;
+
+}
+.carousel-item {
+text-align: center;
+width: 60%;
+margin-left: 20%;
+
+
+}
+
+.container-cartao{
+    display: flex;
+    margin-left: 40%;
+}
+
+.accordion-item {
+    width: 15%;
+    margin-left: 43%;
+
+}
